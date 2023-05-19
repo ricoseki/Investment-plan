@@ -1,1 +1,2 @@
-# Investment-plan-2.0
+# Investment-plan
+This is a proposed website for investment programs.
